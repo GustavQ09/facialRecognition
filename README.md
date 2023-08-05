@@ -12,3 +12,6 @@ salida.py
 usando la camara o un video guardado(que no se haya usado para entrenar) , el reconocimiento facial mostrara la prediccion si es que hay alguna o no , mostrando el resultado en pantalla
 
 ![Screenshot_25](https://github.com/GustavQ09/facialRecognition/assets/100110402/f09d7550-420f-4adb-95db-45e954ab0000)
+
+
+![Screenshot_39](https://github.com/GustavQ09/facialRecognition/assets/100110402/6d0b6bb9-d576-4160-a243-28e8155bfb6c)
