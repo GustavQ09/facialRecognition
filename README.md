@@ -15,3 +15,6 @@ usando la camara o un video guardado(que no se haya usado para entrenar) , el re
 
 
 ![Screenshot_39](https://github.com/GustavQ09/facialRecognition/assets/100110402/6d0b6bb9-d576-4160-a243-28e8155bfb6c)
+
+
+Pd: los datos subidos en la carpeta data son a modo de ejemplo, cuanto mas datos mas preciso va a ser el reconocimiento
